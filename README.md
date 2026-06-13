@@ -34,10 +34,10 @@ constantly and moved it to a sleep tier.
 
 ## Samsung One UI Background App Kill Fix — Step by Step
 
-### Step 1: Remove from Sleeping apps list
-Settings → Battery → Background usage limits
-→ Sleeping apps → find Battery Health Monitor → swipe to remove
-→ Deep sleeping apps → confirm it's not listed there either
+### Step 1: Add to Never Sleeping Apps (permanent fix)
+Settings → Battery and device care → Battery
+→ Background usage limits → Never sleeping apps
+→ Tap + → select Battery Health Monitor → Add
 
 ### Step 2: Set battery usage to Unrestricted
 Settings → Apps → Battery Health Monitor
