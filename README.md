@@ -39,6 +39,10 @@ Settings → Battery and device care → Battery
 → Background usage limits → Never sleeping apps
 → Tap + → select Battery Health Monitor → Add
 
+This is more reliable than removing from the Sleeping list because One UI
+can automatically re-add apps to Sleeping after ~3 days of inactivity.
+"Never sleeping" is a permanent whitelist that One UI does not override.
+
 ### Step 2: Set battery usage to Unrestricted
 Settings → Apps → Battery Health Monitor
 → Battery → Unrestricted
